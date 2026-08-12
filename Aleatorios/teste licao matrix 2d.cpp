@@ -2,7 +2,7 @@
 #include<math.h>
 int main(){
 			int a[10], b[10][3], i, j, fat;
-			
+			//cadê o printf e scanf???
 			for(i=0; i<10; i++){
 			scanf("%i", &a[i]);	
 		}
